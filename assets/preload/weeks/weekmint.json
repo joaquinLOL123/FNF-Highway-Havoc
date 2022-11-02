@@ -1,0 +1,48 @@
+{
+	"storyName": "Minty's Highway Havoc!",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"highway",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"coned",
+			"icon-minty",
+			[
+				192,
+				239,
+				223
+			]
+		],
+		[
+			"appetizer",
+			"icon-minty",
+			[
+				192,
+				239,
+				223
+			]
+		],
+		[
+			"dainty",
+			"icon-minty",
+			[
+				192,
+				239,
+				223
+			]
+		]
+	],
+	"weekName": "weekmint"
+}

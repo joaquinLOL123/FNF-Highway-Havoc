@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minty.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MintDown0000" x="0" y="0" width="441" height="332" frameX="0" frameY="-12" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0001" x="0" y="0" width="441" height="332" frameX="0" frameY="-12" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0002" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0003" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0004" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0005" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0006" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0007" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0008" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0009" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0010" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintDown0011" x="461" y="0" width="426" height="343" frameX="-8" frameY="0" frameWidth="441" frameHeight="344"/>
+	<SubTexture name="MintIdle0000" x="907" y="0" width="454" height="332" frameX="0" frameY="-14" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0001" x="1381" y="0" width="437" height="343" frameX="-5" frameY="-4" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0002" x="1381" y="0" width="437" height="343" frameX="-5" frameY="-4" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0003" x="0" y="363" width="426" height="346" frameX="-7" frameY="-2" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0004" x="0" y="363" width="426" height="346" frameX="-7" frameY="-2" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0005" x="0" y="363" width="426" height="346" frameX="-7" frameY="-2" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0006" x="446" y="363" width="421" height="345" frameX="-8" frameY="0" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0007" x="446" y="363" width="421" height="345" frameX="-8" frameY="0" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0008" x="446" y="363" width="421" height="345" frameX="-8" frameY="0" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0009" x="446" y="363" width="421" height="345" frameX="-8" frameY="0" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0010" x="446" y="363" width="421" height="345" frameX="-8" frameY="0" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintIdle0011" x="446" y="363" width="421" height="345" frameX="-8" frameY="0" frameWidth="454" frameHeight="348"/>
+	<SubTexture name="MintLeft0000" x="887" y="363" width="465" height="343" frameX="-6" frameY="0" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0001" x="887" y="363" width="465" height="343" frameX="-6" frameY="0" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0002" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0003" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0004" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0005" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0006" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0007" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0008" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0009" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0010" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintLeft0011" x="1372" y="363" width="479" height="342" frameX="0" frameY="-2" frameWidth="479" frameHeight="344"/>
+	<SubTexture name="MintRight0000" x="0" y="729" width="429" height="333" frameX="0" frameY="-14" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0001" x="0" y="729" width="429" height="333" frameX="0" frameY="-14" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0002" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0003" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0004" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0005" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0006" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0007" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0008" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0009" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0010" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintRight0011" x="449" y="729" width="410" height="344" frameX="0" frameY="0" frameWidth="429" frameHeight="347"/>
+	<SubTexture name="MintUp0000" x="879" y="729" width="388" height="349" frameX="-4" frameY="0" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0001" x="879" y="729" width="388" height="349" frameX="-4" frameY="0" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0002" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0003" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0004" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0005" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0006" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0007" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0008" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0009" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0010" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="MintUp0011" x="1287" y="729" width="407" height="343" frameX="0" frameY="-5" frameWidth="407" frameHeight="349"/>
+	<SubTexture name="minty V-pose cool awesome0000" x="0" y="1098" width="396" height="360" frameX="-30" frameY="0" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0001" x="416" y="1098" width="455" height="328" frameX="0" frameY="-32" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0002" x="416" y="1098" width="455" height="328" frameX="0" frameY="-32" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0003" x="891" y="1098" width="438" height="333" frameX="-9" frameY="-26" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0004" x="891" y="1098" width="438" height="333" frameX="-9" frameY="-26" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0005" x="891" y="1098" width="438" height="333" frameX="-9" frameY="-26" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0006" x="1349" y="1098" width="421" height="345" frameX="-17" frameY="-14" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0007" x="1349" y="1098" width="421" height="345" frameX="-17" frameY="-14" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0008" x="1349" y="1098" width="421" height="345" frameX="-17" frameY="-14" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0009" x="1349" y="1098" width="421" height="345" frameX="-17" frameY="-14" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0010" x="1349" y="1098" width="421" height="345" frameX="-17" frameY="-14" frameWidth="455" frameHeight="360"/>
+	<SubTexture name="minty V-pose cool awesome0011" x="1349" y="1098" width="421" height="345" frameX="-17" frameY="-14" frameWidth="455" frameHeight="360"/>
+</TextureAtlas>

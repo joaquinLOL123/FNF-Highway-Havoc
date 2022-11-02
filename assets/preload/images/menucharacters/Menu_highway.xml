@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_highway.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ighwy0000" x="50" y="50" width="523" height="371" frameX="0" frameY="-41" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0001" x="50" y="50" width="523" height="371" frameX="0" frameY="-41" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0002" x="623" y="50" width="491" height="381" frameX="-16" frameY="-31" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0003" x="623" y="50" width="491" height="381" frameX="-16" frameY="-31" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0004" x="1164" y="50" width="469" height="397" frameX="-27" frameY="-16" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0005" x="1164" y="50" width="469" height="397" frameX="-27" frameY="-16" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0006" x="50" y="497" width="437" height="405" frameX="-43" frameY="-7" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0007" x="50" y="497" width="437" height="405" frameX="-43" frameY="-7" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0008" x="537" y="497" width="409" height="412" frameX="-57" frameY="0" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0009" x="537" y="497" width="409" height="412" frameX="-57" frameY="0" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0010" x="537" y="497" width="409" height="412" frameX="-57" frameY="0" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0011" x="537" y="497" width="409" height="412" frameX="-57" frameY="0" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0012" x="537" y="497" width="409" height="412" frameX="-57" frameY="0" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0013" x="537" y="497" width="409" height="412" frameX="-57" frameY="0" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="ighwy0014" x="537" y="497" width="409" height="412" frameX="-57" frameY="0" frameWidth="523" frameHeight="413"/>
+	<SubTexture name="whta0000" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0001" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0002" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0003" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0004" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0005" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0006" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0007" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0008" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0009" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0010" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0011" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0012" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0013" x="996" y="497" width="237" height="118"/>
+	<SubTexture name="whta0014" x="996" y="497" width="237" height="118"/>
+</TextureAtlas>

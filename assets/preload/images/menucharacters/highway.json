@@ -1,0 +1,10 @@
+{
+	"idle_anim": "ighwy",
+	"image": "Menu_highway",
+	"position": [
+		190,
+		30
+	],
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

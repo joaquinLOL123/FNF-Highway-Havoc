@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "minty sad idle"
+		},
+		{
+			"offsets": [
+				95,
+				317
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "minty sad left"
+		},
+		{
+			"offsets": [
+				58,
+				301
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "minty sad down"
+		},
+		{
+			"offsets": [
+				36,
+				310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "minty sad right"
+		},
+		{
+			"offsets": [
+				48,
+				333
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "minty sad up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mintyfakesad",
+	"position": [
+		30,
+		700
+	],
+	"healthicon": "minty",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		239,
+		223
+	],
+	"camera_position": [
+		0,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
