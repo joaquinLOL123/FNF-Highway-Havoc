@@ -471,14 +471,14 @@ class TitleState extends MusicBeatState
 				case 27:
 					deleteCoolText();
 				case 28:
-					createCoolText(['Friday']);
+					createCoolText(['FNF']);
 				case 30:
-					addMoreText('Night');
+					addMoreText('Highway Havoc!');
 				case 32:
-					addMoreText('Funkin');
+					addMoreText('Otherwise known as...');
 
 				case 36:
-				    addMoreText('Highway Havoc');
+				    addMoreText('Vs Minty!');
 
 				case 40:
 					skipIntro();
